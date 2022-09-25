@@ -1,18 +1,15 @@
 ![Cloud and Analyst Developer](https://github.com/adriantwarog/adriantwarog/blob/master/freeCodeCamp.jpg)
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 # Rodolfo Marengo Sobreira
 I'm from Lisbon/Portugal, and I do content on Development Enterprise Application. I really enjoy learning languages and frameworks and new technologies.. I also enjoy to be with family and friends, specially all together for barbecue :) 
 
 ## Skills and Experience
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 * .NET C#
 * PL/SQL
 * Cloud
 * ⚛ React
 * 📱 React Native
 * 💻 HTML, CSS, JS
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
