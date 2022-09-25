@@ -64,11 +64,11 @@ environments. Good communication and soft skills
 </p>
 
 <div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodolfoms&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rodolfoms" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodolfoms&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rodolfoms" />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rodolfoms&show_icons=true&locale=en&theme=tokyonight" alt="rodolfoms" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodolfoms&show_icons=true&locale=en&theme=tokyonight" alt="rodolfoms" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodolfoms&&theme=tokyonight" alt="rodolfoms" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodolfoms&&theme=tokyonight" alt="rodolfoms" />
    ![Snake animation](https://github.com/rodolfoms/rodolfoms/blob/output/github-contribution-grid-snake.svg) 
 </div>
 
