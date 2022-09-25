@@ -1,6 +1,6 @@
 ![Cloud and Analyst Developer](https://github.com/rodolfoms/rodolfoms/blob/master/cover.jpg)
-# Rodolfo Marengo Sobreira 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+# Rodolfo Marengo Sobreira 
 **` Senior .NET Developer `**
 13+ years of experience in all phases of the applications development process including architecture, design, development, 
 test definition, integration and support. Highly skilled in applying prior knowledge and experience to quickly grasp and use 
