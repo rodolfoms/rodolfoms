@@ -70,20 +70,20 @@ environments. Good communication and soft skills
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodolfoms&&theme=tokyonight" alt="rodolfoms" /></p>
   
   ##
-[![Blog](https://img.shields.io/website?label=Azurewebsites.net&style=for-the-badge&url=https://azurewebsites.net/)](https://rodolfo.azurewebsites.net)
 [![Blog](https://img.shields.io/website?label=rodolfoms.azurewebsites.net&style=for-the-badge&url=https://rodolfoms.azurewebsites.net/)](https://rodolfoms.azurewebsites.net)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/rodolfoms)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rodolfoms)
 [![GMail](https://img.shields.io/badge/Gmail-23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodolfoms@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodolfoms)
 [![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messanger&logoColor=white)](https://m.me/rosobreira)
+<a href="https://www.linkedin.com/in/rodolfoms" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://m.me/rosobreira" target="_blank"><img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" target="_blank"></a> 
+
 <div>
   [![Web](https://img.shields.io/website?label=rodolfoms.azurewebsites.net&style=for-the-badge&url=https://rodolfoms.azurewebsites.net/)](https://rodolfoms.azurewebsites.net)
   <a href="https://instagram.com/rodolfoms" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:rodolfoms@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rodolfoms" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://m.me/rosobreira" target="_blank"><img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" target="_blank"></a> 
-
+  
   
   ![Snake animation](https://github.com/rodolfoms/rodolfoms/blob/output/github-contribution-grid-snake.svg)
  
