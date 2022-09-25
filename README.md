@@ -70,9 +70,13 @@ environments. Good communication and soft skills
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodolfoms&&theme=tokyonight" alt="rodolfoms" /></p>
   
   ##
- 
+
+[![Blog](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://sujeitoprogramador.com)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/sujeitoprogramador)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/fragabr)
 <div>
-  [![Web](https://img.shields.io/website?label=rodolfoms.azurewebsites.net&style=for-the-badge&url=rodolfoms.azurewebsites.net/)](https://rodolfoms.azurewebsites.net)
+  [![Web](https://img.shields.io/website?label=rodolfoms.azurewebsites.net&style=for-the-badge&url=https://rodolfoms.azurewebsites.net/)](https://rodolfoms.azurewebsites.net)
   <a href="https://instagram.com/rodolfoms" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:rodolfoms@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rodolfoms" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
