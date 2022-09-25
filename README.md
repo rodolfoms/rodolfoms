@@ -1,6 +1,6 @@
 ![Cloud and Analyst Developer](https://github.com/rodolfoms/rodolfoms/blob/master/cover.jpg)
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-# Rodolfo Marengo Sobreira
+# Rodolfo Marengo Sobreira 🖐️
 **` Senior .NET Developer `**
 13+ years of experience in all phases of the applications development process including architecture, design, development, 
 test definition, integration and support. Highly skilled in applying prior knowledge and experience to quickly grasp and use 
@@ -81,7 +81,7 @@ environments. Good communication and soft skills
   ##
  
 <div>
-  [![Blog](https://img.shields.io/website?label=rodolfoms.azurewebsites.net&style=for-the-badge&url=https://rodolfoms.azurewebsites.net/)](https://rodolfoms.azurewebsites.net)
+  [![Web](https://img.shields.io/website?label=rodolfoms.azurewebsites.net&style=for-the-badge&url=rodolfoms.azurewebsites.net/)](https://rodolfoms.azurewebsites.net)
   <a href="https://instagram.com/rodolfoms" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:rodolfoms@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rodolfoms" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
