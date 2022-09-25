@@ -1,4 +1,4 @@
-![Cloud and Analyst Developer](https://github.com/rodolfoms/rodolfoms/blob/master/cover.png)
+![Cloud and Analyst Developer](https://github.com/rodolfoms/rodolfoms/blob/main/cover.png)
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 # Rodolfo Marengo Sobreira 
 **` Senior .NET Developer `**
