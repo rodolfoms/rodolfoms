@@ -63,15 +63,6 @@ environments. Good communication and soft skills
   <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Support:</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/rodolfoms"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rodolfoms" /></a>
-  <a href="https://ko-fi.com/rodolfoms"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="rodolfoms" /></a>
-</p>
-<br><br>
-
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rodolfoms&&theme=xcode)](https://github.com/rodolfoms)
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodolfoms&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rodolfoms" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodolfoms&show_icons=true&locale=en&theme=tokyonight" alt="rodolfoms" /></p>
