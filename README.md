@@ -5,7 +5,7 @@
 13+ years of experience in all phases of the applications development process including architecture, design, development, 
 test definition, integration and support. Highly skilled in applying prior knowledge and experience to quickly grasp and use 
 new client specific software tools and environments, procedures and methods. Experienced in working in multicultural 
-environments. Good communication and soft skills
+environments. Good communication and soft skills.
 
 ## Skills and Experience
 * 🗄️ Databases: PL/SQL, Oracle, SQL Server, Postgres, Entity.
@@ -15,16 +15,15 @@ environments. Good communication and soft skills
 * 💽 Others: DevOps, Scrum, Agile, Git, Jira, TFS, AdWords, Trello, PLC, EDI, Kepware.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodolfoms&label=Profile%20views&color=0e75b6&style=flat" alt="rodolfoms" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rodolfoms" alt="rodolfoms" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/rodolfoms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rodolfoms" height="30" width="40" /></a>
-<a href="https://twitter.com/rodolfosobreira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rodolfosobreira" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rodolfoms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodolfoms" height="30" width="40" /></a>
-<a href="https://instagram.com/rodolfoms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="RodolfoMS on Instagram" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/rodolfoms chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="RodolfoMS on Youtube" height="30" width="40" /></a>
+  <a href="https://dev.to/rodolfoms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rodolfoms" height="30" width="40" /></a>
+  <a href="https://twitter.com/rodolfosobreira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rodolfosobreira" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/rodolfoms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodolfoms" height="30" width="40" /></a>
+  <a href="https://instagram.com/rodolfoms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="RodolfoMS on Instagram" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/c/rodolfoms chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="RodolfoMS on Youtube" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -64,15 +63,13 @@ environments. Good communication and soft skills
 </p>
 
 ##
-
-
+<div align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodolfoms&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rodolfoms" /></p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rodolfoms&show_icons=true&locale=en&theme=tokyonight" alt="rodolfoms" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodolfoms&&theme=tokyonight" alt="rodolfoms" /></p>
+</div>
 
-  ##
+##
 
 [![Blog](https://img.shields.io/website?label=rodolfoms.azurewebsites.net&style=for-the-badge&url=https://rodolfoms.azurewebsites.net/)](https://rodolfoms.azurewebsites.net)
 <br>
@@ -82,16 +79,26 @@ environments. Good communication and soft skills
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodolfoms)
 [![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messanger&logoColor=white)](https://m.me/rosobreira)
 
-
-
-
-
-  ##
+##
  
 <div> 
    <a href="https://github.com/rodolfoms" target="_blank" rel="noopener noreferrer">
     <img src="https://forthebadge.com/images/badges/built-by-developers.svg" alt="built by developers badge" />
  </a> 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+
+  ##
+ 
+<div> 
+  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
