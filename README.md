@@ -72,11 +72,6 @@ environments. Good communication and soft skills
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodolfoms&&theme=tokyonight" alt="rodolfoms" /></p>
 
-<div>
-    <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   ![Snake animation](https://github.com/rodolfoms/rodolfoms/blob/output/github-contribution-grid-snake.svg) 
-</div>
-
   ##
 
 [![Blog](https://img.shields.io/website?label=rodolfoms.azurewebsites.net&style=for-the-badge&url=https://rodolfoms.azurewebsites.net/)](https://rodolfoms.azurewebsites.net)
@@ -89,8 +84,16 @@ environments. Good communication and soft skills
 
 
 
- <a href="https://github.com/rodolfoms" target="_blank" rel="noopener noreferrer">
+
+
+  ##
+ 
+<div> 
+   <a href="https://github.com/rodolfoms" target="_blank" rel="noopener noreferrer">
     <img src="https://forthebadge.com/images/badges/built-by-developers.svg" alt="built by developers badge" />
- </a>
+ </a> 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 
  [website]: https://rodolfoms.azurewebsites.net/
