@@ -70,6 +70,7 @@ environments. Good communication and soft skills
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodolfoms&&theme=tokyonight" alt="rodolfoms" /></p>
   
   ##
+<div>
 [![Blog](https://img.shields.io/website?label=rodolfoms.azurewebsites.net&style=for-the-badge&url=https://rodolfoms.azurewebsites.net/)](https://rodolfoms.azurewebsites.net)
 <br>
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/rodolfoms)
@@ -78,7 +79,7 @@ environments. Good communication and soft skills
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodolfoms)
 [![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messanger&logoColor=white)](https://m.me/rosobreira)
 
-<div>
+
   ![Snake animation](https://github.com/rodolfoms/rodolfoms/blob/output/github-contribution-grid-snake.svg) 
 </div>
 
