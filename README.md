@@ -63,12 +63,17 @@ environments. Good communication and soft skills
   <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a>
 </p>
 
+##
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodolfoms&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rodolfoms" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rodolfoms&show_icons=true&locale=en&theme=tokyonight" alt="rodolfoms" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodolfoms&&theme=tokyonight" alt="rodolfoms" /></p>
+
 <div>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodolfoms&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rodolfoms" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodolfoms&show_icons=true&locale=en&theme=tokyonight" alt="rodolfoms" />
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodolfoms&&theme=tokyonight" alt="rodolfoms" />
+    <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    ![Snake animation](https://github.com/rodolfoms/rodolfoms/blob/output/github-contribution-grid-snake.svg) 
 </div>
 
