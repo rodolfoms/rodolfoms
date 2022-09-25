@@ -63,14 +63,17 @@ environments. Good communication and soft skills
   <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a>
 </p>
 
+<div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodolfoms&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rodolfoms" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodolfoms&show_icons=true&locale=en&theme=tokyonight" alt="rodolfoms" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rodolfoms&show_icons=true&locale=en&theme=tokyonight" alt="rodolfoms" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodolfoms&&theme=tokyonight" alt="rodolfoms" /></p>
-  
+   ![Snake animation](https://github.com/rodolfoms/rodolfoms/blob/output/github-contribution-grid-snake.svg) 
+</div>
+
   ##
-<div>
+
 [![Blog](https://img.shields.io/website?label=rodolfoms.azurewebsites.net&style=for-the-badge&url=https://rodolfoms.azurewebsites.net/)](https://rodolfoms.azurewebsites.net)
 <br>
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/rodolfoms)
@@ -80,8 +83,6 @@ environments. Good communication and soft skills
 [![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messanger&logoColor=white)](https://m.me/rosobreira)
 
 
-  ![Snake animation](https://github.com/rodolfoms/rodolfoms/blob/output/github-contribution-grid-snake.svg) 
-</div>
 
  <a href="https://github.com/rodolfoms" target="_blank" rel="noopener noreferrer">
     <img src="https://forthebadge.com/images/badges/built-by-developers.svg" alt="built by developers badge" />
