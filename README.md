@@ -74,8 +74,8 @@ environments. Good communication and soft skills.
 
 ##
 
-[![Blog](https://img.shields.io/website?label=rodolfoms.azurewebsites.net&style=for-the-badge&url=https://rodolfoms.azurewebsites.net/)](https://rodolfoms.azurewebsites.net)
- 
+[![Blog](https://img.shields.io/website?label=azurewebsites&style=for-the-badge&url=https://rodolfoms.azurewebsites.net/)](https://rodolfoms.azurewebsites.net)
+<a href="https://rodolfoms.azurewebsites.net" target="_blank"><img src="https://img.shields.io/website?label=azurewebsites&style=for-the-badge&url=https://rodolfoms.azurewebsites.net/" target="_blank"></a>
 <div> 
   <a href="https://youtube.com/c/rodolfoms" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/rodolfoms" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
