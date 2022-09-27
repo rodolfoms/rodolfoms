@@ -16,7 +16,6 @@ environments. Good communication and soft skills.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodolfoms&label=Profile%20views&color=0e75b6&style=flat" alt="rodolfoms" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rodolfoms" alt="rodolfoms" /></a> </p>
-[![Blog](https://img.shields.io/website?label=azurewebsites&style=for-the-badge&url=https://rodolfoms.azurewebsites.net/)](https://rodolfoms.azurewebsites.net)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -76,6 +75,7 @@ environments. Good communication and soft skills.
 ##
 
 
+ 
 <div> 
   <a href="https://youtube.com/c/rodolfoms" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/rodolfoms" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -84,7 +84,9 @@ environments. Good communication and soft skills.
   <a href="https://m.me/rosobreira" target="_blank"><img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messanger&logoColor=white" target="_blank"></a> 
 
   ![Snake animation](https://github.com/rodolfoms/rodolfoms/blob/output/github-contribution-grid-snake.svg)
- 
+
+  [![Blog](https://img.shields.io/website?label=rodolfoms.azurewebsites.net&style=for-the-badge&url=https://rodolfoms.azurewebsites.net/)](https://rodolfoms.azurewebsites.net)
+
 </div>
 
  [website]: https://rodolfoms.azurewebsites.net/
