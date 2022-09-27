@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    RodolfoMS -- Systems Analyst -- @rodolfoms
 
 # THANKS
 
-    <name>
+    Family
 
 # TECHNOLOGY COLOPHON
 
